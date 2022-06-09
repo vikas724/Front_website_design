@@ -1,13 +1,6 @@
-## Practical Front-End Projects with Pure Javascript, CSS, and HTML
+##  Front-End Projects with Pure Javascript, CSS, and HTML
 
 A collection of practical, easy to use front-end related projects for enthusiasts and beginners. The main purpose is to learn. The codes are free and always will be.
-
-**Notes:**
-
-- Webpack, gulp or any another bundler has not been used.
-- Third-party libraries were not used.
-- Codes are mostly supported by modern browsers.
-- Projects are only for educational purposes.
 
 
 ### Projects
@@ -143,7 +136,7 @@ A modern design concept to showcase content in a container with two splitted sec
   
 ### Escape Loading Animation - CSS
 
-Cool loading animation with pure CSS. Animation contains sliding and floating boxes, designed by [Vitaly Silkin](https://dribbble.com/shots/4268258-Evitare-loader).
+Cool loading animation with pure CSS. Animation contains sliding and floating boxes, designed by [Vikas Gadgi](https://dribbble.com/shots/4268258-Evitare-loader).
 
 **[Online Demo](https://behnamazimi.github.io/simple-web-projects/css-escape-loading-animation/)**
 
